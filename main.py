@@ -1,3 +1,4 @@
+#Módulo de captura de datos
 def pedir_datos():
     nombre = input("Ingresa el nombre del alumno: ")
     grupo = input("Ingresa el grupo: ")
