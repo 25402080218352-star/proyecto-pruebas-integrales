@@ -7,3 +7,6 @@ Descripción:Programa que calcula el promedio de un alumno y determina si está 
 Módulos:
 1.Captura de datos
 2.Cálculos y validación.
+
+Conclusión: En esta actividad se desarrolló un sistema sencillo utilizando Phyton y se organizó mediante GitHub. Se trabajó con ramas para dividir el proyecto en módulos, se realizaron commits para registrar cambios y se integraron mediante Pull Requests.
+Además, se utilizaron Issues para identificar posibles mejoras y se realizaron pruebas integrales para comprobar el funcionamiento del sistema. Esto permitió entender mejor el uso de GitHub como herramienta de control de versiones.
