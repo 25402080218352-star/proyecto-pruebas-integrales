@@ -5,7 +5,7 @@ def pedir_datos():
     cal2 = float(input("Ingresa la calificación 2: "))
     cal3 = float(input("Ingresa la calificación 3: "))
     return nombre, grupo, cal1, cal2, cal3
-
+#Modulo de calculos y validación
 def calcular_promedio(cal1, cal2, cal3):
     return (cal1 + cal2 + cal3) / 3
 
