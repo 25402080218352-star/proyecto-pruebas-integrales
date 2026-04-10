@@ -1,0 +1,9 @@
+ACTIVIDAD:PRUEBAS INTEGRALES CON GITHUB
+Nombre del proyecto: Sistema de Promedio Escolar
+Integrantes:
+-Evelin Carranza
+-Ana Reyna
+Descripción:Programa que calcula el promedio de un alumno y determina si está aprobado o reprobado.
+Módulos:
+1.Captura de datos
+2.Cálculos y validación.
